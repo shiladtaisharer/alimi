@@ -1,0 +1,1 @@
+diff(otherBoard: Board): BoardDiff;
